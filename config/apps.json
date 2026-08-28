@@ -1,0 +1,24 @@
+[
+  {
+    "githubRepo": "XITRIX/iTorrent",
+    "assetPattern": "(?i)^iTorrent.*\\.ipa$",
+    "name": "iTorrent",
+    "developerName": "XITRIX",
+    "subtitle": "原生 iOS BitTorrent 客户端",
+    "localizedDescription": "开源的 iOS BitTorrent 客户端，支持 Magnet、种子文件、后台下载、RSS、文件共享和媒体播放。",
+    "iconPath": "assets/itorrent.png",
+    "tintColor": "3478F6",
+    "category": "utilities"
+  },
+  {
+    "githubRepo": "tfourj/Palladium",
+    "assetPattern": "(?i)^Palladium.*\\.ipa$",
+    "name": "Palladium",
+    "developerName": "tfourj",
+    "subtitle": "基于 yt-dlp 的 iOS 媒体下载器",
+    "localizedDescription": "在 iPhone 和 iPad 本机运行的开源媒体下载器，基于 yt-dlp、gallery-dl 和 FFmpeg。",
+    "iconPath": "assets/palladium.png",
+    "tintColor": "7457D6",
+    "category": "utilities"
+  }
+]
