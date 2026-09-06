@@ -41,6 +41,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "1.4.1",
+          "buildVersion": "0",
+          "date": "2026-09-06T00:10:31Z",
+          "localizedDescription": "Palladium\n  \n    iOS Media Downloader based on YT-DLP\n  \n\n## What's Changed\n* Add toggle to save failed/unfinished downloads to history by @tfourj in https://github.com/tfourj/Palladium/pull/52\n* Fix gallery-dl previews in picker by @tfourj in https://github.com/tfourj/Palladium/pull/53\n* Add format/quality selection to queued downloads by @tfourj in https://github.com/tfourj/Palladium/pull/56\n* Fix incorrect quality/format labels in format-list picker by @tfourj in https://github.com/tfourj/Palladium/pull/57\n* Add option to recode/remux downloaded media by @tfourj in https://github.com/tfourj/Palladium/pull/58\n* Fix gallery-dl video thumbnails by @tfourj in https://github.com/tfourj/Palladium/pull/59\n\n**Full Changelog**: https://github.com/tfourj/Palladium/compare/v1.4.0...v1.4.1",
+          "downloadURL": "https://github.com/tfourj/Palladium/releases/download/v1.4.1/Palladium-v1.4.1.ipa",
+          "size": 36465126,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.4.0",
           "buildVersion": "0",
           "date": "2026-08-10T18:17:26Z",
