@@ -41,6 +41,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "1.4.3",
+          "buildVersion": "0",
+          "date": "2026-09-26T17:47:58Z",
+          "localizedDescription": "Palladium\n  \n    iOS Media Downloader based on YT-DLP\n  \n\n## What's Changed\n* Add support for alternate JS runtime (QuickJS) by @tfourj in https://github.com/tfourj/Palladium/pull/65\n* Add contributors/translators to About view by @tfourj in https://github.com/tfourj/Palladium/pull/66\n\n**Full Changelog**: https://github.com/tfourj/Palladium/compare/v1.4.2...v1.4.3",
+          "downloadURL": "https://github.com/tfourj/Palladium/releases/download/v1.4.3/Palladium-v1.4.3.ipa",
+          "size": 36923382,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.4.2",
           "buildVersion": "0",
           "date": "2026-09-12T08:09:58Z",
