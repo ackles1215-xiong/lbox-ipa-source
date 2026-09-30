@@ -34,12 +34,12 @@
       "iconURL": "https://raw.githubusercontent.com/ackles1215-xiong/lbox-ipa-source/main/assets/palladium.png",
       "tintColor": "7457D6",
       "category": "utilities",
-      "version": "1.4.3",
+      "version": "1.4.4",
       "buildVersion": "0",
-      "versionDate": "2026-09-26T17:47:58Z",
-      "versionDescription": "Palladium\n  \n    iOS Media Downloader based on YT-DLP\n  \n\n## What's Changed\n* Add support for alternate JS runtime (QuickJS) by @tfourj in https://github.com/tfourj/Palladium/pull/65\n* Add contributors/translators to About view by @tfourj in https://github.com/tfourj/Palladium/pull/66\n\n**Full Changelog**: https://github.com/tfourj/Palladium/compare/v1.4.2...v1.4.3",
-      "downloadURL": "https://github.com/tfourj/Palladium/releases/download/v1.4.3/Palladium-v1.4.3.ipa",
-      "size": 36923382,
+      "versionDate": "2026-09-30T17:35:28Z",
+      "versionDescription": "Palladium\n  \n    iOS Media Downloader based on YT-DLP\n  \n\n## What's Changed\n* Add settings to customize exported filename by @tfourj in https://github.com/tfourj/Palladium/pull/69\n* Add per-website custom arguments by @tfourj in https://github.com/tfourj/Palladium/pull/72 (#71) \n* Add developer debug menu by @tfourj in https://github.com/tfourj/Palladium/pull/73\n\n## Localization\n* New Japanese Crowdin updates by @so-5699 in https://github.com/tfourj/Palladium/pull/74\n\n**Full Changelog**: https://github.com/tfourj/Palladium/compare/v1.4.3...v1.4.4",
+      "downloadURL": "https://github.com/tfourj/Palladium/releases/download/v1.4.4/Palladium-v1.4.4.ipa",
+      "size": 37099606,
       "minOSVersion": "17.0",
       "screenshotURLs": []
     }
