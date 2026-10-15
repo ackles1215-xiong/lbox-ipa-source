@@ -41,6 +41,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "1.4.5",
+          "buildVersion": "0",
+          "date": "2026-10-14T18:27:45Z",
+          "localizedDescription": "Palladium\n  \n    iOS Media Downloader based on YT-DLP\n  \n\n## What's Changed\n* Use separate key for Download Button text by @tfourj in https://github.com/tfourj/Palladium/pull/76\n* Add Export Logs button to console by @tfourj in https://github.com/tfourj/Palladium/pull/79\n* Fix Download Quality localization by @tfourj in https://github.com/tfourj/Palladium/pull/80\n* Fix background downloads by @tfourj in https://github.com/tfourj/Palladium/pull/81\n* Fix playback audio when silent mode is on by @tfourj in https://github.com/tfourj/Palladium/pull/83\n* Improve video post processing by @tfourj in https://github.com/tfourj/Palladium/pull/84\n\n## Localization\n* New Japanese Crowdin updates by @so-5699 in https://github.com/tfourj/Palladium/pull/86 https://github.com/tfourj/Palladium/pull/85\n* New Chinese Crowdin updates by @soci-art https://github.com/tfourj/Palladium/pull/85\n* New Korean Crowdin updates by @profs35 https://github.com/tfourj/Palladium/pull/85\n\n**Full Changelog**: https://github.com/tfourj/Palladium/compare/v1.4.4...v1.4.5",
+          "downloadURL": "https://github.com/tfourj/Palladium/releases/download/v1.4.5/Palladium-v1.4.5.ipa",
+          "size": 39402760,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.4.4",
           "buildVersion": "0",
           "date": "2026-09-30T17:35:28Z",
