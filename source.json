@@ -41,6 +41,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "1.4.6",
+          "buildVersion": "0",
+          "date": "2026-10-16T18:52:24Z",
+          "localizedDescription": "Palladium\n  \n    iOS Media Downloader based on YT-DLP\n  \n\n## What's Changed\n* Hardcode languages list to switcher by @tfourj in https://github.com/tfourj/Palladium/pull/88\n* Fix background downloads on sideloaded builds with a changed bundle ID by @tfourj in https://github.com/tfourj/Palladium/pull/87\n* Detect and fix background downloads on sideloaded installs by @tfourj in https://github.com/tfourj/Palladium/pull/90\n\n## Localization\n* New Crowdin updates by @tfourj in https://github.com/tfourj/Palladium/pull/91\n\n**Full Changelog**: https://github.com/tfourj/Palladium/compare/v1.4.5...v1.4.6",
+          "downloadURL": "https://github.com/tfourj/Palladium/releases/download/v1.4.6/Palladium-v1.4.6.ipa",
+          "size": 39482614,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.4.5",
           "buildVersion": "0",
           "date": "2026-10-14T18:27:45Z",
