@@ -41,6 +41,15 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "1.5.0",
+          "buildVersion": "0",
+          "date": "2026-10-31T13:17:53Z",
+          "localizedDescription": "Palladium\n  \n    iOS Media Downloader based on YT-DLP\n  \n\n## What's Changed\n* Fix package manager version comparison by @tfourj in https://github.com/tfourj/Palladium/pull/93\n* Add button to support/donate to the Project by @tfourj in https://github.com/tfourj/Palladium/pull/94\n* Add auto link paste/download by @tfourj in https://github.com/tfourj/Palladium/pull/95\n* Add yt-dlp-ejs as managed package & fix urlib3 _PERCENT_RE crash by @tfourj in https://github.com/tfourj/Palladium/pull/96\n* Use Icon Composer app icon by @tfourj in https://github.com/tfourj/Palladium/pull/98\n* Fix background downloads failing during thumbnail embedding by @tfourj in https://github.com/tfourj/Palladium/pull/99\n* Add cancel and progress details to package update overlay by @tfourj in https://github.com/tfourj/Palladium/pull/101\n* Check curl cffi payload matches bundled python version by @tfourj in https://github.com/tfourj/Palladium/pull/102\n* Add silent audio background download mode by @tfourj in https://github.com/tfourj/Palladium/pull/103\n* Add SponsorBlock sponsor removal option by @tfourj in https://github.com/tfourj/Palladium/pull/105\n\n## Localization\n* Added Spanish translations by **Juan En** in https://github.com/tfourj/Palladium/pull/106\n\n**Full Changelog**: https://github.com/tfourj/Palladium/compare/v1.4.6...v1.5.0",
+          "downloadURL": "https://github.com/tfourj/Palladium/releases/download/v1.5.0/Palladium-v1.5.0.ipa",
+          "size": 41833789,
+          "minOSVersion": "17.0"
+        },
+        {
           "version": "1.4.6",
           "buildVersion": "0",
           "date": "2026-10-16T18:52:24Z",
